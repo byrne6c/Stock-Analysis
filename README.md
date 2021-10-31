@@ -11,8 +11,14 @@ Analyzing clean energy stocks for investment
 
 ## Results
 #### Performance Comparison 
+        Between original code seen here : 
         
-
+        And newly refractored code seen here: 
+        
+        
+        We have cut time from a manual process of pulling & calculating cell values out of thousands of rows, 
+        and instead Initialized values from zero & Declared our specific output arrays **Before** our nested Loops.   
+        We also 
 ## Summary 
 
 
