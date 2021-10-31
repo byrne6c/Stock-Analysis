@@ -10,7 +10,8 @@ Analyzing clean energy stocks for investment
         refractor the code for this program to ensure it's run time is minimal & functioning is efficient.      
 
 ## Results
-#### 
+#### Performance Comparison 
+        
 
 ## Summary 
 
